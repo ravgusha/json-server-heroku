@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "contacts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "firstName": "Alexander",
+      "lastName": "Hamilton",
+      "phone": "2012252255",
+      "city": "Brooklyn",
+      "id": "1"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "firstName": "George",
+      "lastName": "Washington",
+      "phone": "2012252244",
+      "city": "Washington",
+      "id": "2"
+    },
+    {
+      "firstName": "Angelica",
+      "lastName": "Schuyler",
+      "phone": "2012253344",
+      "city": "Chicago",
+      "id": "3"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "O'Connor",
+      "phone": "6512345689",
+      "city": "NY",
+      "id": "a248a06f"
+    },
+    {
+      "firstName": "Sherlock",
+      "lastName": "Holmes",
+      "phone": "645646554",
+      "city": "London",
+      "id": "7814fd08"
     }
   ]
 }
